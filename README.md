@@ -10,8 +10,16 @@ ImtClock is a project made for <a href="stardance.hackclub.com"><b>Stardance</b>
 
 ## PCB
 ![pcb of ImtClock](/Assets/pcb.png)
+
 ## 3D PCB
 ![3d pcb of Imtclock](/Assets/3D%20PCB.png)
+
+## 3D Printed Parts
+![top](/Assets/Top%20Part.png)
+![bottom](/Assets/Bottom%20Part.png)
+
+## Result
+![result](/Assets/Full%20output.png)
 
 ## Ingredients needed to make this
 - <a href="https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/"><b>Seeed Studio XIAO ESP32-C3</b></a>
@@ -23,3 +31,8 @@ ImtClock is a project made for <a href="stardance.hackclub.com"><b>Stardance</b>
 Hack Club will provide their <a href="https://blare.hackclub.com/docs/rewards"><b>Blare Kit</a></b> for this project. Here are the things they'll provide.
 ![blare kit](readme/BLARE-kit.jpg)
 
+## Thanks to Hack Club.
+Made by <a href="github.com/imtua"><b>Imtu</b></a> with the help of <a href="hackclub.com"><b>Hack Club</b></a>.
+Hack Club Stardance: stardance.hackclub.com
+Register now through my link: <a href="https://stardance.space/r-aq7c7"><b>Register now!</b></a>
+ImtClock Project on Stardance: <a href="https://stardance.hackclub.com/projects/56342"><b>ImtClock</b></a>
