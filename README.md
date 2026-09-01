@@ -6,7 +6,7 @@ ImtClock is a project made for <a href="stardance.hackclub.com"><b>Stardance</b>
 ![schematics of ImtClock](readme/schematics.png)
 
 ## Footprints
-![footprints of ImtClock](readme/schematics.png)
+![footprints of ImtClock](readme/footprints.png)
 
 ## PCB
 ![pcb of ImtClock](readme/pcb.png)
