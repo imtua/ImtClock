@@ -14,10 +14,6 @@
 ## 3D Overview of the PCB
 ![3D PCB of ImtClock](/Assets/3D%20PCB.png)
 
-## 3D Printed Parts
-![Top Printed Part of ImtClock](/Assets/Top%20Part.png)
-![Bottom Printed Part of ImtClock](/Assets/Bottom%20Part.png)
-
 ## Result
 ![Resulted View](/Assets/Full%20output.png)
 
