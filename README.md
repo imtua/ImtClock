@@ -14,8 +14,12 @@
 ## 3D Overview of the PCB
 ![3D PCB of ImtClock](/Assets/3D%20PCB.png)
 
+## Parts of ImtClock
+![Top](/Assets/top-part.png)
+![Bottom](/Assets/bottom-part.png)
+
 ## Result
-![Resulted View](/Assets/Full%20output.png)
+![Resulted View](/Assets/full-output.png)
 
 ## Ingredients needed to make this
 - 1x <a href="https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/"><b>Seeed Studio XIAO ESP32-C3</b></a>
